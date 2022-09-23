@@ -31,6 +31,7 @@ press open then select the Project Sourse code folder
 Package Name And Details
 ----------------------------------------------------
 PIL-Tools	1.1.0	1.1.0
+
 Pillow	9.2.0	9.2.0
 SimpleWin32	0.1.5	0.1.5
 certifi	2022.6.15	2022.6.15
