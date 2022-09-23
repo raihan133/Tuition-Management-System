@@ -90,9 +90,9 @@ If there is any problem contact with us
 ----------------------------------------------------
 /////////////About us//////////////////////////////
 ---------------------------------------------------
-/	Name: Raihanul Islam Apu	        /
-/	Email: opu.raihankhan@gmail.com   /
-/	phone No: +8801946585441          /
+	Name: Raihanul Islam Apu	        
+Email: opu.raihankhan@gmail.com   
+	phone No: +8801946585441          /
 /		                                /
 / Name: Anisha Akter		            /
 / Email: srabonianisha@gmail.com    /
